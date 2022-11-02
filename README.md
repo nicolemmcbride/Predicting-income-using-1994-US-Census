@@ -1,4 +1,4 @@
-# Predicting-income-using-1994-US-Census
+# Predicting income from the 1994 US Census
 
 ## Abstract
 
