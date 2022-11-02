@@ -21,12 +21,13 @@ The data for this project was downloaded from [Kaggle](https://www.kaggle.com/da
 Validation - Accuracy .85, Precision .71, Recall .68, F1 Score .69, AUC, .91.
 Testing - Accuracy .86, Precision .71, Recall .7, F1 Score .7, AUC .92
 
+<img width="531" alt="Screen Shot 2022-11-02 at 20 18 05" src="https://user-images.githubusercontent.com/80511410/199476537-ebccdf9d-e957-4e2c-9ea5-8b09e194a4e2.png">
+
 ### Tools  
 Numpy and Pandas for data manipulation, Scikit-learn for modeling, Matplotlib and Seaborn for plotting.
 
 ### Communication  
 I completed a 5-minute presentation of my findings; slides and visuals for this project are included in this repository. Future work may include comparison of a prior season of the show, topic modeling across episodes, and re-segmenting the time interval.
 
-<img width="531" alt="Screen Shot 2022-11-02 at 20 18 05" src="https://user-images.githubusercontent.com/80511410/199476537-ebccdf9d-e957-4e2c-9ea5-8b09e194a4e2.png">
 
 
